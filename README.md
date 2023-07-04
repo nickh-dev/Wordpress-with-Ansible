@@ -42,4 +42,4 @@ Once executed, this playbook will automate the setup of AWS resources and the in
 4. Add your private key in the main directory with your project.
 
 # To run the playbook you need to type:
-sudo ansible-playbook <name of your playbook> -i <nameOfYourHostDirectory/hosts>
+sudo ansible-playbook <nameOfYourPlaybook> -i <nameOfYourHostDirectory/hosts>
