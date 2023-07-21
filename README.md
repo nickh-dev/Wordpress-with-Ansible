@@ -45,4 +45,4 @@ Once executed, this playbook will automate the setup of AWS resources and the in
 sudo ansible-playbook main.yml -i inventory/hosts
 
 # Link for the architecture
-Follow this link to explore the architecture --> (https://drive.google.com/file/d/15k7ed6hlgrCej93fuz9_otAjLj7YhrsQ/view?usp=sharing)
+Follow this link to explore the architecture --> https://drive.google.com/file/d/15k7ed6hlgrCej93fuz9_otAjLj7YhrsQ/view?usp=sharing
